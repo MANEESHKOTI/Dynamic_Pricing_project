@@ -19,7 +19,7 @@ This project implements an end-to-end dynamic pricing solution for e-commerce. I
 ## 🛠️ Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/MANEESHKOTI/Dynamic_Pricing_project.git
    cd Dynamic_Pricing_Project
 Install dependencies:
 
